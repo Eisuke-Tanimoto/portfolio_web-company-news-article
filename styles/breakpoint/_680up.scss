@@ -1,0 +1,15 @@
+.menu-btn {
+  display: none;
+}
+
+.header {
+  &__nav {
+    display: flex;
+  }
+}
+
+.footer {
+  &__nav {
+    justify-content: center;
+  }
+}
